@@ -1,0 +1,22 @@
+Drill report for BB_helper_SSOP_10.kicad_pcb
+Created on 2026-06-23T21:41:51
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'BB_helper_SSOP_10-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  1.000mm  0.0394"  (10 holes))
+
+    Total plated holes count 10
+
+
+Drill file 'BB_helper_SSOP_10-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
