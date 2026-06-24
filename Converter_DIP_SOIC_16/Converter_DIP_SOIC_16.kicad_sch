@@ -8,6 +8,7 @@
 		(rev "1")
 		(company "DMH Instruments")
 		(comment 1 "16 pin SOIC to DIP converter")
+		(comment 2 "JEDEC MS-012-AC")
 	)
 	(lib_symbols
 		(symbol "Audio:SSI2164"

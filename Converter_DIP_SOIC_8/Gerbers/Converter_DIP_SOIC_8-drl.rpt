@@ -1,0 +1,23 @@
+Drill report for Converter_DIP_SOIC_8.kicad_pcb
+Created on 2026-06-24T21:09:23
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Converter_DIP_SOIC_8-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (2 holes))
+    T2  1.000mm  0.0394"  (8 holes))
+
+    Total plated holes count 10
+
+
+Drill file 'Converter_DIP_SOIC_8-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
